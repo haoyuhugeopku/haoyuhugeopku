@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @haoyuhugeopku
+- 🏛️ I work as a research associate at CUHK.
 - 🎓 I got my doctorate at PKU.
 - 👀 I’m interested in transport geography and GIS.
 - 🌱 I’m currently learning big data analysis.
